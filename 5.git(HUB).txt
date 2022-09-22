@@ -1,0 +1,36 @@
+GIT HUB
+------
+Repositeries
+folder
+read me
+commit(save)_
+
+Branch
+Merge
+Fork
+Pull request
+
+
+Ram1070$:password
+username:ramganesh25
+
+video 2:
+=======
+rigt corner + icon
+1.create repository
+ name - whatapp development
+ description(optional)- for develop chat app
+ private/public
+
+create file or upload file(drag and drop - chose file)
+
+commit - intial commit
+commit change
+
+modification
+
+commit - ----- commit change
+
+histroy
+
+
