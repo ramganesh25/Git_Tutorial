@@ -34,4 +34,8 @@ commit - ----- commit change
 histroy
 
 video 3: about branch
+create branch
+
+how to merge
+
 
